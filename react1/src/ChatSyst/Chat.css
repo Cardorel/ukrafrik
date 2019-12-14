@@ -1,0 +1,104 @@
+.Chat-component{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    font-size: 50px;
+    color: #0078D7;
+    cursor: pointer;
+}
+
+
+
+.Chat-Container{
+    position: fixed;
+    bottom: 70px;
+    right: 10px;
+
+}
+
+.Chat-row {
+    width: 250px;
+    height: auto;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    border: 2px solid whitesmoke;
+}
+
+.Chat-opacity{
+    opacity: 0;
+}
+
+.Chat-opacity-1{
+    opacity: 1;
+}
+
+.Input-class{display: block;}
+
+.Input-class input[type=text]{
+    position: relative;
+    bottom: 4px;
+    width: 96%;
+    left: 5px;
+    padding: 12px;
+    border-radius: 15px;
+    border: 1px solid #0078D7;
+    outline: none;
+}
+
+.Chat-support{
+    display: flex;
+    padding: 8px;
+    border-bottom: 1px solid #0078D7;
+}
+
+.Chat-support span{
+    flex: 1;
+    font-size: 23px;
+}
+
+.Chat-support h4{
+    flex: 3;
+    text-align: center;
+    font-size: 23px;
+}
+
+.Chat-support .Close-chat{
+    text-align: end;
+    cursor: pointer;
+    font-weight: bolder;
+}
+
+.Chat-message{
+    padding-bottom: 5px;
+}
+
+.Message-chat{
+    margin-left: 5px;
+}
+
+p.Chat-message-user{
+   padding: 8px 0;
+}
+
+
+.Chat-message-text {
+    font-size: 11px;
+    display: table;
+    max-width: 240px;
+    background-color: #0078D7;
+    border-radius: 8px;
+    padding: 10px;
+    color: white;
+    margin-left: 3px;
+}
+
+.Chat-message-text-1 {
+    font-size: 11px;
+    display: table;
+    max-width: 240px;
+    background-color: rgb(75, 177, 75);
+    border-radius: 8px;
+    padding: 10px;
+    color: white;
+    margin-left: 3px;
+}

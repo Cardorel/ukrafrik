@@ -1,0 +1,133 @@
+.Home-container{
+    width: 90%;
+    margin: auto;
+    
+}
+
+.Home-header{
+    margin: auto;
+    width: 40%;
+}
+
+.Home-header p{
+    margin: 20px 0 20px 40px;
+    font-size: 18px;
+}
+
+.Home-header h1{
+    padding: 50px 0;
+}
+
+
+.Home-container .Bars-down{
+    width: 70%;
+    height: 1.7px;
+    margin: 15px auto;
+    background: linear-gradient(to right , white 5%, rgba(252, 0, 0, 0.16) 25.2%  , black 51.9% , rgba(252, 0, 0, 0.16) 79.2% , white 95% )
+}
+
+.Home-content-text p{
+    line-height: 40px;
+    margin: 20px 0;
+    font-size: 19px;
+}
+
+
+.Home-content-text button{
+    border: none;
+    background-color: white;
+    font-size: 19px;
+}
+
+.Home-content-text button:hover {
+    color: red;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.Home-nav{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+}
+
+.Home-nav h1{
+    margin: 20px 0;
+    background: linear-gradient(to right, red , black , rgb(61, 57, 57) , yellow);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+}
+
+.Home-nav p{
+    margin: 0 60px 0 0;
+    line-height: 35px;
+    font-size: 19px;
+}
+
+.Home-nav img{
+    width: 350px;
+    height: 250px;
+}
+
+.Home-nav button{
+    border: none;
+    cursor: pointer;
+    color: white;
+    padding: 15px;
+    font-size: 19px;
+    background-color: #0078D7;
+}
+
+.Feel-back-content{
+    display: flex;
+    width:90%;
+    margin:10px auto;
+    padding: 30px 0;
+}
+
+.Feel-back-content span{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.Center-content p{
+    margin: 20px 0;
+    line-height: 35px;
+}
+
+.Feel-back-content img{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+
+.Center-content{
+    width: 100%;
+}
+
+.Center-content p{
+    width: 250px;
+}
+
+.Center-content .Start{
+    color: gold;
+    font-size: 19px;
+}
+
+/**********************************************************************************************************/
+
+.my-node-entered {
+  opacity: 1;
+  transition: opacity 300ms linear 150ms;
+}
+
+
+.my-node-entering {
+    opacity: 0;
+}
+
+

@@ -1,0 +1,130 @@
+[
+    {
+        "id" : "5dd31e0b3300002a007a400c",
+        "title": "Conference Hall «Assembly»",
+        "image": "https://rieke.com/wp-content/uploads/2018/12/SSActivewear2.jpg",
+        "url" : {
+           "url1" : "https://arktura.com/wp-content/uploads/2015/03/Trace-Straight-CGI-Innovation-Arlington-VA_WEB_1.jpg",
+           "url2" : "https://rieke.com/wp-content/uploads/2018/12/SSActivewear2.jpg",
+           "url3" : "https://atlona.com/wp-content/uploads/2016/06/meeting_room_solution_image1-1024x768.jpg",
+           "url4" : "https://i.pinimg.com/originals/1a/a0/15/1aa01557739911847720583cb906d159.jpg"
+        },
+        "text" : "This multi-purpose conference hall is ideal for holding various events from press-conferences and presentations to seminars and business meetings. We are sure you can find everything you need from modern technology to comfortable seating and various choices of food and drinks for coffee-breaks or banquets. Wired and wireless Internet connection is available.",
+        "Equipment" : "Equipment",
+        "Speaker" : "speaker's stand;",
+        "multimedia" : "multimedia projector;",
+        "chart" : "flip chart",
+        "micro" : "4 microphones",
+        "wall" : "wall display 3x2,3 m;",
+        "additionnal" : "Additional services",
+        "addi1" : "To hire technical equipments",
+        "add2" : "Technical event support",
+        "add3" : "Business center service(printing, photocopying, telephone,fax,computer)",
+        "capacity": "Capacity",
+        "number" : "100 pax",
+        "Area" : "153 sq.m"
+    },
+    {
+        "id" : "5dd31e3233000081a77a400e",
+        "title": "Conference Hall «Collegium»",
+        "image": "https://images.pexels.com/photos/2976970/pexels-photo-2976970.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url" : {
+            "url1" : "https://i.pinimg.com/originals/1a/a0/15/1aa01557739911847720583cb906d159.jpg",
+            "url2" : "https://images.pexels.com/photos/2976970/pexels-photo-2976970.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "url3" : "https://atlona.com/wp-content/uploads/2016/06/meeting_room_solution_image1-1024x768.jpg",
+            "url4" : "https://arktura.com/wp-content/uploads/2015/03/Trace-Straight-CGI-Innovation-Arlington-VA_WEB_1.jpg"
+         },
+         "text" : "This multi-purpose conference hall has perfect soundproofing, daylighting, air conditioning, wired and wireless Internet connection.",
+         "Equipment" : "Equipment",
+         "Speaker" : "speaker's stand;",
+         "multimedia" : "multimedia projector;",
+         "chart" : "flip chart",
+         "micro" : "8 microphones",
+         "wall" : "wall display 2x1,5 m;",
+         "additionnal" : "Additional services",
+         "addi1" : "To hire technical equipments",
+         "add2" : "Technical event support",
+         "add3" : "Business center service(printing, photocopying, telephone,fax,computer)",
+        "capacity": "Capacity",
+        "number" : "20 pax",
+        "Area" : "51.4 sq.m"
+    },
+    {
+        "id" : "5dd31e5a33000022ae7a400f",
+        "title": "Meeting Room «Forum»",
+        "image": "https://images.pexels.com/photos/159213/hall-congress-architecture-building-159213.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url" : {
+            "url1" : "https://atlona.com/wp-content/uploads/2016/06/meeting_room_solution_image1-1024x768.jp",
+            "url2" : "https://images.pexels.com/photos/2976970/pexels-photo-2976970.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "url3" : "https://i.pinimg.com/originals/1a/a0/15/1aa01557739911847720583cb906d159.jpg",
+            "url4" : "https://arktura.com/wp-content/uploads/2015/03/Trace-Straight-CGI-Innovation-Arlington-VA_WEB_1.jpg"
+         },
+         "text" : "This spacious multi-functional conference hall is great for holding various events whether big or small. The total area of the hall is 110 sq.m which allows multiple ways of seating. Wireless Internet connection is available as well as air conditioning system. The list of additional equipment is provided on demand by the marketing specialist.",
+         "Equipment" : "Equipment",
+         "Speaker" : "speaker's stand;",
+         "multimedia" : "multimedia projector;",
+         "chart" : "flip chart",
+         "micro" : "3 microphones",
+         "wall" : "plasma TV",
+         "additionnal" : "Additional services",
+         "addi1" : "To hire technical equipments",
+         "add2" : "Technical event support",
+         "add3" : "Business center service(printing, photocopying, telephone,fax,computer)",
+        "capacity": "Capacity",
+        "number" : "60 pax",
+        "Area" : "110 sq.m"
+    },
+    {
+        "id" : "5dd31f2c3300002b007a4013",
+        "title": "Hall «Mariyinsky»",
+        "image": "https://images.pexels.com/photos/236730/pexels-photo-236730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url" : {
+            "url1" : "https://images.pexels.com/photos/236730/pexels-photo-236730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "url2" : "https://www.sydneylodges.com/images/rl-conference-room-4.jpg",
+            "url3" : "https://images.pexels.com/photos/2976970/pexels-photo-2976970.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "url4" : " https://i.pinimg.com/originals/1a/a0/15/1aa01557739911847720583cb906d159.jpg"
+         },
+         "text" : "Our elegantly decorated hall with the view of Maidan is suitable for holding various events: presentations, seminars, meetings, etc. Massive columns separate the working area of the hall leaving plenty of space for registration desk or showing informational materials. The hall allows various ways of seating. The list of additional equipment is provided on demand by the marketing specialist.",
+         "Equipment" : "Equipment",
+         "Speaker" : "speaker's stand;",
+         "multimedia" : "multimedia projector;",
+         "chart" : "flip chart",
+         "micro" : "3 microphones",
+         "wall" : "plasma TV",
+         "additionnal" : "Additional services",
+         "addi1" : "To hire technical equipments",
+         "add2" : "Technical event support",
+         "add3" : "Business center service(printing, photocopying, telephone,fax,computer)",
+        "capacity": "Capacity",
+        "number" : "30 pax",
+        "Area" : "70 sq.m"
+    },
+    {
+        "id" : "5dd31f5f3300004e007a4015",
+        "title": "Hall «Elite»",
+        "image": "https://images.pexels.com/photos/260689/pexels-photo-260689.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "url" : {
+            "url1" : "https://images.pexels.com/photos/236730/pexels-photo-236730.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "url2" : "http://www.smwllc.com/wp-content/uploads/2016/06/Police-Commisioner-Conference-Room-Command-and-Control-New-York-AV.jpg",
+            "url3" : "https://images.pexels.com/photos/2976970/pexels-photo-2976970.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+            "url4" : "https://www.ninezero.com/images/1700-960/will-price-nz-262405-fl-c8c0e25e.jpg"
+         },
+         "text" : "Our cozy Hall «Elite» for 10 people is usually used for business events, negotiations, meeting of friends and colleagues. The exquisite design sets warm atmosphere either for work or rest. The list of additional equipment is provided on demand by the marketing specialist.",
+         "Equipment" : "Equipment",
+         "Speaker" : "speaker's stand;",
+         "multimedia" : "multimedia projector;",
+         "chart" : "flip chart",
+         "micro" : "3 microphones",
+         "wall" : "plasma TV",
+         "additionnal" : "Additional services",
+         "addi1" : "To hire technical equipments",
+         "add2" : "Technical event support",
+         "add3" : "Business center service(printing, photocopying, telephone,fax,computer)",
+        "capacity": "Capacity",
+        "number" : "30 pax",
+        "Area" : "60 sq.m"
+    }
+    
+    
+
+]
